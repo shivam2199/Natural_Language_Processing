@@ -1,4 +1,4 @@
-> # Natural_Language_Processing
+> # Natural Language Processing
 
 1) **Natural Language Processing with Classification and Vector Spaces** - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies, and translate words, and use locality sensitive hashing for approximate nearest neighbors.
 
